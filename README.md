@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jhojan_gonzalez
 - 👀 I’m interested in el desarrollo 
 - 🌱 I’m currently learning Analasisi y desarrollo de software
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on aprender lo mas que pueda para convertime en un profesional
 - 📫 How to reach me ...
 
 <!---
