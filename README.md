@@ -2,7 +2,7 @@
 - 👀 I’m interested in el desarrollo 
 - 🌱 I’m currently learning Analasisi y desarrollo de software
 - 💞️ I’m looking to collaborate on aprender lo mas que pueda para convertime en un profesional
-- 📫 How to reach me  sii
+- 📫 How to reach me por medio de mis redes sociales 
 
 <!---
 Fiutwer09/Fiutwer09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
