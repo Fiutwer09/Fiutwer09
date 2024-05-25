@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **Camilocardona2617@gmail.com**
 <!--Intro end-->
